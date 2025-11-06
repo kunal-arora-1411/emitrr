@@ -481,22 +481,3 @@ text3 = ""
 result3 = summarize_to_json("Test", text3)
 assert result3 is not None
 ```
-
-## 📞 Support
-
-For issues or questions:
-1. Check the [examples](#example-output) section
-2. Review [limitations](#-limitations)
-3. See [customization](#-customization) options
-
-## 📄 License
-
-This tool is intended for educational and research purposes. Always validate outputs with medical professionals before clinical use.
-
-## ⚕️ Medical Disclaimer
-
-**Important:** This tool is not a substitute for professional medical judgment. All extracted information should be reviewed and validated by qualified healthcare professionals before being used for clinical decision-making.
-
----
-
-**Note**: For production medical applications, ensure compliance with HIPAA, GDPR, and other relevant healthcare regulations.
