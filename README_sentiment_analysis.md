@@ -778,14 +778,3 @@ Analysis taking >1 minute per sentence
 ```
 **Solution:** Use GPU or smaller model (distilbert instead of bert-base).
 
-## 📄 License
-
-This notebook is for educational and research purposes. Ensure compliance with healthcare regulations (HIPAA, GDPR) before clinical deployment.
-
-## ⚕️ Medical Disclaimer
-
-**Critical:** This tool provides supportive information only and should never replace professional medical judgment. All sentiment and intent predictions must be validated by qualified healthcare professionals.
-
----
-
-**Questions?** Review the [use cases](#-use-cases) and [customization](#-customization) sections for guidance.
